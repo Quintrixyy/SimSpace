@@ -16,6 +16,5 @@ class user {
     public get usedCoords(): number[][] { return this._usedCoords}
     public get buildingsBuilt(): number { return this._buildingsBuilt;}
 
-    public get userMoney(): number { return this._userMoney}
-    public    
+    public get userMoney(): number { return this._userMoney}    
 }
