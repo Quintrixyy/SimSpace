@@ -17,4 +17,4 @@ class user {
     public get buildingsBuilt(): number { return this._buildingsBuilt;}
 
     public get userMoney(): number { return this._userMoney}    
-}
+} 
